@@ -1,0 +1,21 @@
+Símbolo         Valor Decimal   Valor Hexadecimal
+-------         -------------   -----------------
+INICIO                      0                   0
+CHAMA_SOMA                 50                  32
+CHAMA_SUB                  58                  3A
+CHAMA_MULT                 66                  42
+CHAMA_DIVIS                74                  4A
+SOMA_FUNC                  82                  52
+SUB_FUNC                   87                  57
+MULT_FUNC                  92                  5C
+MULT_LOOP                  96                  60
+MULT_END                  108                  6C
+DIVIS_FUNC                109                  6D
+DIV_LOOP                  113                  71
+DIV_END                   123                  7B
+EXIBIR_RESULTADO          124                  7C
+ERRO                      132                  84
+EXIBIR_FUNC               144                  90
+CONVERTE_ASCII            150                  96
+RET_EXIBIR                158                  9E
+FIM                       159                  9F
